@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1579184821 source:c:\users\metr\desktop\bus reservation\bus.cpp
+	"bus.h"
+	<iomanip>
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+
+1579184835 c:\users\metr\desktop\bus reservation\bus.h
+	<string>
+	"bus.h"
+	<iomanip>
+	<iostream>
+	<set>
+	<string>
+	<vector>
+	<algorithm>
+
+1579187515 source:c:\users\metr\desktop\bus reservation\main.cpp
+	<iostream>
+	<iomanip>
+	<set>
+	<algorithm>
+	"bus.h"
+	<string>
+	<cstring>
+	<vector>
+
+1567207120 c:\users\metr\desktop\bus reservation\a.h
+	"bus.h"
+
